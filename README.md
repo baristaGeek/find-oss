@@ -776,3 +776,9 @@ Alternatives to: [Medium](https://medium.com/)
 |                         [Sigle](https://www.sigle.io/)  [![Sigle](https://github.com/sigle.png?size=20)](https://www.sigle.io/) | [![Sigle](https://img.shields.io/github/stars/sigle/sigle.svg?style=social)](https://github.com/sigle/sigle)                               |   Yes   |
 | [WriteFreely](https://writefreely.org/)  [![WriteFreely](https://github.com/writefreely.png?size=20)](https://writefreely.org/) | [![WriteFreely](https://img.shields.io/github/stars/writefreely/writefreely.svg?style=social)](https://github.com/writefreely/writefreely) |    -    |  
 
+## Code Review
+Alternatives to: [DeepSource](https://deepsource.com/), [Codacy](https://www.codacy.com/)
+
+|                                                                                                                     Open source | Stars                                                                                                                                      | Private |
+| ------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------- | :-----: |
+| [Watermelon](https://www.watermelontools.com/)  [![Watermelon](https://github.com/writefreely.png?size=20)](https://writefreely.org/) | [![Watermelon](https://img.shields.io/github/stars/watermelontools/watermelon.svg?style=social)](https://github.com/watermelontools/watermelon) |    -    |  
